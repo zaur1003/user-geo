@@ -1,0 +1,3827 @@
+{
+  "Europe/Andorra": {
+    "country": "Andorra",
+    "countryCode": "AD",
+    "city": "Andorra",
+    "region": "Europe",
+    "dial": "+376",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Dubai": {
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "city": "Dubai",
+    "region": "Asia",
+    "dial": "+971",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kabul": {
+    "country": "Afghanistan",
+    "countryCode": "AF",
+    "city": "Kabul",
+    "region": "Asia",
+    "dial": "+93",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Tirane": {
+    "country": "Albania",
+    "countryCode": "AL",
+    "city": "Tirane",
+    "region": "Europe",
+    "dial": "+355",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Yerevan": {
+    "country": "Armenia",
+    "countryCode": "AM",
+    "city": "Yerevan",
+    "region": "Asia",
+    "dial": "+374",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Casey": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Casey",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Davis": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Davis",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Mawson": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Mawson",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Palmer": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Palmer",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Rothera": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Rothera",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Troll": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Troll",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Vostok": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Vostok",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Buenos_Aires": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Buenos_Aires",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Cordoba": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Cordoba",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Salta": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Salta",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Jujuy": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Jujuy",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Tucuman": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Tucuman",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Catamarca": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Catamarca",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/La_Rioja": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "La_Rioja",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/San_Juan": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "San_Juan",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Mendoza": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Mendoza",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/San_Luis": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "San_Luis",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Rio_Gallegos",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Argentina/Ushuaia": {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "city": "Ushuaia",
+    "region": "America",
+    "dial": "+54",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Pago_Pago": {
+    "country": "Samoa (American)",
+    "countryCode": "AS",
+    "city": "Pago_Pago",
+    "region": "Pacific",
+    "dial": "+1684",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Vienna": {
+    "country": "Austria",
+    "countryCode": "AT",
+    "city": "Vienna",
+    "region": "Europe",
+    "dial": "+43",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Australia/Lord_Howe": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Lord_Howe",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Macquarie": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Macquarie",
+    "region": "Antarctica",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Hobart": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Hobart",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Melbourne": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Sydney": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Broken_Hill": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Broken_Hill",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Brisbane": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Lindeman": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Lindeman",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Adelaide": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Darwin": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Darwin",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Perth": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Australia/Eucla": {
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Eucla",
+    "region": "Australia",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Baku": {
+    "country": "Azerbaijan",
+    "countryCode": "AZ",
+    "city": "Baku",
+    "region": "Asia",
+    "dial": "+994",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Barbados": {
+    "country": "Barbados",
+    "countryCode": "BB",
+    "city": "Barbados",
+    "region": "America",
+    "dial": "+1246",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Dhaka": {
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "city": "Dhaka",
+    "region": "Asia",
+    "dial": "+880",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Brussels": {
+    "country": "Belgium",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "region": "Europe",
+    "dial": "+32",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Sofia": {
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "dial": "+359",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Atlantic/Bermuda": {
+    "country": "Bermuda",
+    "countryCode": "BM",
+    "city": "Bermuda",
+    "region": "Atlantic",
+    "dial": "+1441",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Brunei": {
+    "country": "Brunei",
+    "countryCode": "BN",
+    "city": "Brunei",
+    "region": "Asia",
+    "dial": "+673",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/La_Paz": {
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "city": "La_Paz",
+    "region": "America",
+    "dial": "+591",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Noronha": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Noronha",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Belem": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Belem",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Fortaleza": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Fortaleza",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Recife": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Recife",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Araguaina": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Araguaina",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Maceio": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Maceio",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Bahia": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Bahia",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Sao_Paulo": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Sao_Paulo",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Campo_Grande": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Campo_Grande",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Cuiaba": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Cuiaba",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Santarem": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Santarem",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Porto_Velho": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Porto_Velho",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Boa_Vista": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Boa_Vista",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Manaus": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Manaus",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Eirunepe": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Eirunepe",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Rio_Branco": {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "city": "Rio_Branco",
+    "region": "America",
+    "dial": "+55",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Thimphu": {
+    "country": "Bhutan",
+    "countryCode": "BT",
+    "city": "Thimphu",
+    "region": "Asia",
+    "dial": "+975",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Minsk": {
+    "country": "Belarus",
+    "countryCode": "BY",
+    "city": "Minsk",
+    "region": "Europe",
+    "dial": "+375",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Belize": {
+    "country": "Belize",
+    "countryCode": "BZ",
+    "city": "Belize",
+    "region": "America",
+    "dial": "+501",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Johns": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "St_Johns",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Halifax": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Halifax",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Glace_Bay": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Glace_Bay",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Moncton": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Moncton",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Goose_Bay": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Goose_Bay",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Toronto": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Nipigon": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Nipigon",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Thunder_Bay": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Thunder_Bay",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Iqaluit": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Iqaluit",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Pangnirtung": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Pangnirtung",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Winnipeg": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Winnipeg",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Rainy_River": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Rainy_River",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Resolute": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Resolute",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Rankin_Inlet": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Rankin_Inlet",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Regina": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Regina",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Swift_Current": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Swift_Current",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Edmonton": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Edmonton",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Cambridge_Bay": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Cambridge_Bay",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Yellowknife": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Yellowknife",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Inuvik": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Inuvik",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Dawson_Creek": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Dawson_Creek",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Fort_Nelson": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Fort_Nelson",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Whitehorse": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Whitehorse",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Dawson": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Dawson",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Vancouver": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Cocos": {
+    "country": "Cocos (Keeling) Islands",
+    "countryCode": "CC",
+    "city": "Cocos",
+    "region": "Indian",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Zurich": {
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "dial": "+41",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Abidjan": {
+    "country": "Côte d'Ivoire",
+    "countryCode": "CI",
+    "city": "Abidjan",
+    "region": "Africa",
+    "dial": "+225",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Rarotonga": {
+    "country": "Cook Islands",
+    "countryCode": "CK",
+    "city": "Rarotonga",
+    "region": "Pacific",
+    "dial": "+682",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Santiago": {
+    "country": "Chile",
+    "countryCode": "CL",
+    "city": "Santiago",
+    "region": "America",
+    "dial": "+56",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Punta_Arenas": {
+    "country": "Chile",
+    "countryCode": "CL",
+    "city": "Punta_Arenas",
+    "region": "America",
+    "dial": "+56",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Easter": {
+    "country": "Chile",
+    "countryCode": "CL",
+    "city": "Easter",
+    "region": "Pacific",
+    "dial": "+56",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Shanghai": {
+    "country": "China",
+    "countryCode": "CN",
+    "city": "Shanghai",
+    "region": "Asia",
+    "dial": "+86",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Urumqi": {
+    "country": "China",
+    "countryCode": "CN",
+    "city": "Urumqi",
+    "region": "Asia",
+    "dial": "+86",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Bogota": {
+    "country": "Colombia",
+    "countryCode": "CO",
+    "city": "Bogota",
+    "region": "America",
+    "dial": "+57",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Costa_Rica": {
+    "country": "Costa Rica",
+    "countryCode": "CR",
+    "city": "Costa_Rica",
+    "region": "America",
+    "dial": "+506",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Havana": {
+    "country": "Cuba",
+    "countryCode": "CU",
+    "city": "Havana",
+    "region": "America",
+    "dial": "+53",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Atlantic/Cape_Verde": {
+    "country": "Cape Verde",
+    "countryCode": "CV",
+    "city": "Cape_Verde",
+    "region": "Atlantic",
+    "dial": "+238",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Christmas": {
+    "country": "Christmas Island",
+    "countryCode": "CX",
+    "city": "Christmas",
+    "region": "Indian",
+    "dial": "+61",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Nicosia": {
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "city": "Nicosia",
+    "region": "Asia",
+    "dial": "+357",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Asia/Famagusta": {
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "city": "Famagusta",
+    "region": "Asia",
+    "dial": "+357",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Prague": {
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "dial": "+420",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Berlin": {
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "dial": "+49",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Copenhagen": {
+    "country": "Denmark",
+    "countryCode": "DK",
+    "city": "Copenhagen",
+    "region": "Europe",
+    "dial": "+45",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "America/Santo_Domingo": {
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "city": "Santo_Domingo",
+    "region": "America",
+    "dial": "+1849",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Algiers": {
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "city": "Algiers",
+    "region": "Africa",
+    "dial": "+213",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Guayaquil": {
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "city": "Guayaquil",
+    "region": "America",
+    "dial": "+593",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Galapagos": {
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "city": "Galapagos",
+    "region": "Pacific",
+    "dial": "+593",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Tallinn": {
+    "country": "Estonia",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "region": "Europe",
+    "dial": "+372",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Africa/Cairo": {
+    "country": "Egypt",
+    "countryCode": "EG",
+    "city": "Cairo",
+    "region": "Africa",
+    "dial": "+20",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/El_Aaiun": {
+    "country": "Western Sahara",
+    "countryCode": "EH",
+    "city": "El_Aaiun",
+    "region": "Africa",
+    "dial": "+212",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Madrid": {
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "dial": "+34",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Africa/Ceuta": {
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Ceuta",
+    "region": "Africa",
+    "dial": "+34",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Atlantic/Canary": {
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Canary",
+    "region": "Atlantic",
+    "dial": "+34",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Helsinki": {
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "region": "Europe",
+    "dial": "+358",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Pacific/Fiji": {
+    "country": "Fiji",
+    "countryCode": "FJ",
+    "city": "Fiji",
+    "region": "Pacific",
+    "dial": "+679",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Atlantic/Stanley": {
+    "country": "Falkland Islands",
+    "countryCode": "FK",
+    "city": "Stanley",
+    "region": "Atlantic",
+    "dial": "+500",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Chuuk": {
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "city": "Chuuk",
+    "region": "Pacific",
+    "dial": "+691",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Pohnpei": {
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "city": "Pohnpei",
+    "region": "Pacific",
+    "dial": "+691",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Kosrae": {
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "city": "Kosrae",
+    "region": "Pacific",
+    "dial": "+691",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Atlantic/Faroe": {
+    "country": "Faroe Islands",
+    "countryCode": "FO",
+    "city": "Faroe",
+    "region": "Atlantic",
+    "dial": "+298",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Paris": {
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "region": "Europe",
+    "dial": "+33",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/London": {
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "London",
+    "region": "Europe",
+    "dial": "+44",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Asia/Tbilisi": {
+    "country": "Georgia",
+    "countryCode": "GE",
+    "city": "Tbilisi",
+    "region": "Asia",
+    "dial": "+995",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Cayenne": {
+    "country": "French Guiana",
+    "countryCode": "GF",
+    "city": "Cayenne",
+    "region": "America",
+    "dial": "+594",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Gibraltar": {
+    "country": "Gibraltar",
+    "countryCode": "GI",
+    "city": "Gibraltar",
+    "region": "Europe",
+    "dial": "+350",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Nuuk": {
+    "country": "Greenland",
+    "countryCode": "GL",
+    "city": "Nuuk",
+    "region": "America",
+    "dial": "+299",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Danmarkshavn": {
+    "country": "Greenland",
+    "countryCode": "GL",
+    "city": "Danmarkshavn",
+    "region": "America",
+    "dial": "+299",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Scoresbysund": {
+    "country": "Greenland",
+    "countryCode": "GL",
+    "city": "Scoresbysund",
+    "region": "America",
+    "dial": "+299",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Thule": {
+    "country": "Greenland",
+    "countryCode": "GL",
+    "city": "Thule",
+    "region": "America",
+    "dial": "+299",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Athens": {
+    "country": "Greece",
+    "countryCode": "GR",
+    "city": "Athens",
+    "region": "Europe",
+    "dial": "+30",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Atlantic/South_Georgia": {
+    "country": "South Georgia & the South Sandwich Islands",
+    "countryCode": "GS",
+    "city": "South_Georgia",
+    "region": "Atlantic",
+    "dial": "+500",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Guatemala": {
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "city": "Guatemala",
+    "region": "America",
+    "dial": "+502",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Guam": {
+    "country": "Guam",
+    "countryCode": "GU",
+    "city": "Guam",
+    "region": "Pacific",
+    "dial": "+1671",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Bissau": {
+    "country": "Guinea-Bissau",
+    "countryCode": "GW",
+    "city": "Bissau",
+    "region": "Africa",
+    "dial": "+245",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Guyana": {
+    "country": "Guyana",
+    "countryCode": "GY",
+    "city": "Guyana",
+    "region": "America",
+    "dial": "+595",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Hong_Kong": {
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong_Kong",
+    "region": "Asia",
+    "dial": "+852",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Tegucigalpa": {
+    "country": "Honduras",
+    "countryCode": "HN",
+    "city": "Tegucigalpa",
+    "region": "America",
+    "dial": "+504",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Port-au-Prince": {
+    "country": "Haiti",
+    "countryCode": "HT",
+    "city": "Port-au-Prince",
+    "region": "America",
+    "dial": "+509",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Budapest": {
+    "country": "Hungary",
+    "countryCode": "HU",
+    "city": "Budapest",
+    "region": "Europe",
+    "dial": "+36",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Asia/Jakarta": {
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Jakarta",
+    "region": "Asia",
+    "dial": "+62",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Pontianak": {
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Pontianak",
+    "region": "Asia",
+    "dial": "+62",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Makassar": {
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Makassar",
+    "region": "Asia",
+    "dial": "+62",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Jayapura": {
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "city": "Jayapura",
+    "region": "Asia",
+    "dial": "+62",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Dublin": {
+    "country": "Ireland",
+    "countryCode": "IE",
+    "city": "Dublin",
+    "region": "Europe",
+    "dial": "+353",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Asia/Jerusalem": {
+    "country": "Israel",
+    "countryCode": "IL",
+    "city": "Jerusalem",
+    "region": "Asia",
+    "dial": "+972",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kolkata": {
+    "country": "India",
+    "countryCode": "IN",
+    "city": "Kolkata",
+    "region": "Asia",
+    "dial": "+91",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Calcutta": {
+    "country": "India",
+    "countryCode": "IN",
+    "city": "Calcutta",
+    "region": "Asia",
+    "dial": "+91",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Chagos": {
+    "country": "British Indian Ocean Territory",
+    "countryCode": "IO",
+    "city": "Chagos",
+    "region": "Indian",
+    "dial": "+246",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Baghdad": {
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "city": "Baghdad",
+    "region": "Asia",
+    "dial": "+964",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Tehran": {
+    "country": "Iran",
+    "countryCode": "IR",
+    "city": "Tehran",
+    "region": "Asia",
+    "dial": "+98",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Atlantic/Reykjavik": {
+    "country": "Iceland",
+    "countryCode": "IS",
+    "city": "Reykjavik",
+    "region": "Atlantic",
+    "dial": "+354",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Rome": {
+    "country": "Italy",
+    "countryCode": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "dial": "+39",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "America/Jamaica": {
+    "country": "Jamaica",
+    "countryCode": "JM",
+    "city": "Jamaica",
+    "region": "America",
+    "dial": "+1876",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Amman": {
+    "country": "Jordan",
+    "countryCode": "JO",
+    "city": "Amman",
+    "region": "Asia",
+    "dial": "+962",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Tokyo": {
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Tokyo",
+    "region": "Asia",
+    "dial": "+81",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Nairobi": {
+    "country": "Kenya",
+    "countryCode": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "dial": "+254",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Bishkek": {
+    "country": "Kyrgyzstan",
+    "countryCode": "KG",
+    "city": "Bishkek",
+    "region": "Asia",
+    "dial": "+996",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Tarawa": {
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "city": "Tarawa",
+    "region": "Pacific",
+    "dial": "+686",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Kanton": {
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "city": "Kanton",
+    "region": "Pacific",
+    "dial": "+686",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Kiritimati": {
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "city": "Kiritimati",
+    "region": "Pacific",
+    "dial": "+686",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Pyongyang": {
+    "country": "Korea (North)",
+    "countryCode": "KP",
+    "city": "Pyongyang",
+    "region": "Asia",
+    "dial": "+850",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Seoul": {
+    "country": "Korea (South)",
+    "countryCode": "KR",
+    "city": "Seoul",
+    "region": "Asia",
+    "dial": "+82",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Almaty": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Almaty",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Qyzylorda": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Qyzylorda",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Qostanay": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Qostanay",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Aqtobe": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Aqtobe",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Aqtau": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Aqtau",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Atyrau": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Atyrau",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Oral": {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "city": "Oral",
+    "region": "Asia",
+    "dial": "+77",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Beirut": {
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "city": "Beirut",
+    "region": "Asia",
+    "dial": "+961",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Colombo": {
+    "country": "Sri Lanka",
+    "countryCode": "LK",
+    "city": "Colombo",
+    "region": "Asia",
+    "dial": "+94",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Monrovia": {
+    "country": "Liberia",
+    "countryCode": "LR",
+    "city": "Monrovia",
+    "region": "Africa",
+    "dial": "+231",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Vilnius": {
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "city": "Vilnius",
+    "region": "Europe",
+    "dial": "+370",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Luxembourg": {
+    "country": "Luxembourg",
+    "countryCode": "LU",
+    "city": "Luxembourg",
+    "region": "Europe",
+    "dial": "+352",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Riga": {
+    "country": "Latvia",
+    "countryCode": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "dial": "+371",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Africa/Tripoli": {
+    "country": "Libya",
+    "countryCode": "LY",
+    "city": "Tripoli",
+    "region": "Africa",
+    "dial": "+218",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Casablanca": {
+    "country": "Morocco",
+    "countryCode": "MA",
+    "city": "Casablanca",
+    "region": "Africa",
+    "dial": "+212",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Monaco": {
+    "country": "Monaco",
+    "countryCode": "MC",
+    "city": "Monaco",
+    "region": "Europe",
+    "dial": "+377",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Chisinau": {
+    "country": "Moldova",
+    "countryCode": "MD",
+    "city": "Chisinau",
+    "region": "Europe",
+    "dial": "+373",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Majuro": {
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "city": "Majuro",
+    "region": "Pacific",
+    "dial": "+692",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Kwajalein": {
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "city": "Kwajalein",
+    "region": "Pacific",
+    "dial": "+692",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Yangon": {
+    "country": "Myanmar (Burma)",
+    "countryCode": "MM",
+    "city": "Yangon",
+    "region": "Asia",
+    "dial": "+95",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Ulaanbaatar": {
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "city": "Ulaanbaatar",
+    "region": "Asia",
+    "dial": "+976",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Hovd": {
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "city": "Hovd",
+    "region": "Asia",
+    "dial": "+976",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Choibalsan": {
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "city": "Choibalsan",
+    "region": "Asia",
+    "dial": "+976",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Macau": {
+    "country": "Macau",
+    "countryCode": "MO",
+    "city": "Macau",
+    "region": "Asia",
+    "dial": "+853",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Martinique": {
+    "country": "Martinique",
+    "countryCode": "MQ",
+    "city": "Martinique",
+    "region": "America",
+    "dial": "+596",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Malta": {
+    "country": "Malta",
+    "countryCode": "MT",
+    "city": "Malta",
+    "region": "Europe",
+    "dial": "+356",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Indian/Mauritius": {
+    "country": "Mauritius",
+    "countryCode": "MU",
+    "city": "Mauritius",
+    "region": "Indian",
+    "dial": "+230",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Maldives": {
+    "country": "Maldives",
+    "countryCode": "MV",
+    "city": "Maldives",
+    "region": "Indian",
+    "dial": "+960",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Mexico_City": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Mexico_City",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Cancun": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Cancun",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Merida": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Merida",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Monterrey": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Monterrey",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Matamoros": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Matamoros",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Mazatlan": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Mazatlan",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Chihuahua": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Chihuahua",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Ojinaga": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Ojinaga",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Hermosillo": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Hermosillo",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Tijuana": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Tijuana",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Bahia_Banderas": {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "city": "Bahia_Banderas",
+    "region": "America",
+    "dial": "+52",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kuala_Lumpur": {
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "city": "Kuala_Lumpur",
+    "region": "Asia",
+    "dial": "+60",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kuching": {
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "city": "Kuching",
+    "region": "Asia",
+    "dial": "+60",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Maputo": {
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "city": "Maputo",
+    "region": "Africa",
+    "dial": "+258",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Windhoek": {
+    "country": "Namibia",
+    "countryCode": "NA",
+    "city": "Windhoek",
+    "region": "Africa",
+    "dial": "+264",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Noumea": {
+    "country": "New Caledonia",
+    "countryCode": "NC",
+    "city": "Noumea",
+    "region": "Pacific",
+    "dial": "+687",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Norfolk": {
+    "country": "Norfolk Island",
+    "countryCode": "NF",
+    "city": "Norfolk",
+    "region": "Pacific",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Lagos": {
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "dial": "+234",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Managua": {
+    "country": "Nicaragua",
+    "countryCode": "NI",
+    "city": "Managua",
+    "region": "America",
+    "dial": "+505",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Amsterdam": {
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "dial": "+31",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Oslo": {
+    "country": "Norway",
+    "countryCode": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "dial": "+47",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kathmandu": {
+    "country": "Nepal",
+    "countryCode": "NP",
+    "city": "Kathmandu",
+    "region": "Asia",
+    "dial": "+977",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Nauru": {
+    "country": "Nauru",
+    "countryCode": "NR",
+    "city": "Nauru",
+    "region": "Pacific",
+    "dial": "+674",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Niue": {
+    "country": "Niue",
+    "countryCode": "NU",
+    "city": "Niue",
+    "region": "Pacific",
+    "dial": "+683",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Auckland": {
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Auckland",
+    "region": "Pacific",
+    "dial": "+64",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Chatham": {
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "city": "Chatham",
+    "region": "Pacific",
+    "dial": "+64",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Panama": {
+    "country": "Panama",
+    "countryCode": "PA",
+    "city": "Panama",
+    "region": "America",
+    "dial": "+507",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Lima": {
+    "country": "Peru",
+    "countryCode": "PE",
+    "city": "Lima",
+    "region": "America",
+    "dial": "+51",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Tahiti": {
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "city": "Tahiti",
+    "region": "Pacific",
+    "dial": "+689",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Marquesas": {
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "city": "Marquesas",
+    "region": "Pacific",
+    "dial": "+689",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Gambier": {
+    "country": "French Polynesia",
+    "countryCode": "PF",
+    "city": "Gambier",
+    "region": "Pacific",
+    "dial": "+689",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Port_Moresby": {
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "city": "Port_Moresby",
+    "region": "Pacific",
+    "dial": "+675",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Bougainville": {
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "city": "Bougainville",
+    "region": "Pacific",
+    "dial": "+675",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Manila": {
+    "country": "Philippines",
+    "countryCode": "PH",
+    "city": "Manila",
+    "region": "Asia",
+    "dial": "+63",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Karachi": {
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "city": "Karachi",
+    "region": "Asia",
+    "dial": "+92",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Warsaw": {
+    "country": "Poland",
+    "countryCode": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "dial": "+48",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "America/Miquelon": {
+    "country": "St Pierre & Miquelon",
+    "countryCode": "PM",
+    "city": "Miquelon",
+    "region": "America",
+    "dial": "+508",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Pitcairn": {
+    "country": "Pitcairn",
+    "countryCode": "PN",
+    "city": "Pitcairn",
+    "region": "Pacific",
+    "dial": "+872",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Puerto_Rico": {
+    "country": "Puerto Rico",
+    "countryCode": "PR",
+    "city": "Puerto_Rico",
+    "region": "America",
+    "dial": "+1939",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Gaza": {
+    "country": "Palestine",
+    "countryCode": "PS",
+    "city": "Gaza",
+    "region": "Asia",
+    "dial": "+970",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Hebron": {
+    "country": "Palestine",
+    "countryCode": "PS",
+    "city": "Hebron",
+    "region": "Asia",
+    "dial": "+970",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Lisbon": {
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "dial": "+351",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Atlantic/Madeira": {
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Madeira",
+    "region": "Atlantic",
+    "dial": "+351",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Atlantic/Azores": {
+    "country": "Portugal",
+    "countryCode": "PT",
+    "city": "Azores",
+    "region": "Atlantic",
+    "dial": "+351",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Pacific/Palau": {
+    "country": "Palau",
+    "countryCode": "PW",
+    "city": "Palau",
+    "region": "Pacific",
+    "dial": "+680",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Asuncion": {
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "city": "Asuncion",
+    "region": "America",
+    "dial": "+595",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Qatar": {
+    "country": "Qatar",
+    "countryCode": "QA",
+    "city": "Qatar",
+    "region": "Asia",
+    "dial": "+974",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Reunion": {
+    "country": "Réunion",
+    "countryCode": "RE",
+    "city": "Reunion",
+    "region": "Indian",
+    "dial": "+262",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Bucharest": {
+    "country": "Romania",
+    "countryCode": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "dial": "+40",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Belgrade": {
+    "country": "Serbia",
+    "countryCode": "RS",
+    "city": "Belgrade",
+    "region": "Europe",
+    "dial": "+381",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Kaliningrad": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Kaliningrad",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Moscow": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Simferopol": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Simferopol",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Kirov": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Kirov",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Volgograd": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Volgograd",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Astrakhan": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Astrakhan",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Saratov": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Saratov",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Ulyanovsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Ulyanovsk",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Samara": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Samara",
+    "region": "Europe",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Yekaterinburg": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Yekaterinburg",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Omsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Omsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Novosibirsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Novosibirsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Barnaul": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Barnaul",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Tomsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Tomsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Novokuznetsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Novokuznetsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Krasnoyarsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Krasnoyarsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Irkutsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Irkutsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Chita": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Chita",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Yakutsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Yakutsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Khandyga": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Khandyga",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Vladivostok": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Vladivostok",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Ust-Nera": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Ust-Nera",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Magadan": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Magadan",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Sakhalin": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Sakhalin",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Srednekolymsk": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Srednekolymsk",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kamchatka": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Kamchatka",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Anadyr": {
+    "country": "Russia",
+    "countryCode": "RU",
+    "city": "Anadyr",
+    "region": "Asia",
+    "dial": "+7",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Riyadh": {
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "city": "Riyadh",
+    "region": "Asia",
+    "dial": "+966",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Guadalcanal": {
+    "country": "Solomon Islands",
+    "countryCode": "SB",
+    "city": "Guadalcanal",
+    "region": "Pacific",
+    "dial": "+677",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Mahe": {
+    "country": "Seychelles",
+    "countryCode": "SC",
+    "city": "Mahe",
+    "region": "Indian",
+    "dial": "+248",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Khartoum": {
+    "country": "Sudan",
+    "countryCode": "SD",
+    "city": "Khartoum",
+    "region": "Africa",
+    "dial": "+249",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Stockholm": {
+    "country": "Sweden",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "dial": "+46",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Asia/Singapore": {
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "region": "Asia",
+    "dial": "+65",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Paramaribo": {
+    "country": "Suriname",
+    "countryCode": "SR",
+    "city": "Paramaribo",
+    "region": "America",
+    "dial": "+597",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Juba": {
+    "country": "South Sudan",
+    "countryCode": "SS",
+    "city": "Juba",
+    "region": "Africa",
+    "dial": "+211",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Sao_Tome": {
+    "country": "Sao Tome & Principe",
+    "countryCode": "ST",
+    "city": "Sao_Tome",
+    "region": "Africa",
+    "dial": "+239",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/El_Salvador": {
+    "country": "El Salvador",
+    "countryCode": "SV",
+    "city": "El_Salvador",
+    "region": "America",
+    "dial": "+503",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Damascus": {
+    "country": "Syria",
+    "countryCode": "SY",
+    "city": "Damascus",
+    "region": "Asia",
+    "dial": "+963",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Grand_Turk": {
+    "country": "Turks & Caicos Is",
+    "countryCode": "TC",
+    "city": "Grand_Turk",
+    "region": "America",
+    "dial": "+1649",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Ndjamena": {
+    "country": "Chad",
+    "countryCode": "TD",
+    "city": "Ndjamena",
+    "region": "Africa",
+    "dial": "+235",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Kerguelen": {
+    "country": "French Southern & Antarctic Lands",
+    "countryCode": "TF",
+    "city": "Kerguelen",
+    "region": "Indian",
+    "dial": "+262",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Bangkok": {
+    "country": "Thailand",
+    "countryCode": "TH",
+    "city": "Bangkok",
+    "region": "Asia",
+    "dial": "+66",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Dushanbe": {
+    "country": "Tajikistan",
+    "countryCode": "TJ",
+    "city": "Dushanbe",
+    "region": "Asia",
+    "dial": "+992",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Fakaofo": {
+    "country": "Tokelau",
+    "countryCode": "TK",
+    "city": "Fakaofo",
+    "region": "Pacific",
+    "dial": "+690",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Dili": {
+    "country": "East Timor",
+    "countryCode": "TL",
+    "city": "Dili",
+    "region": "Asia",
+    "dial": "+670",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Ashgabat": {
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "city": "Ashgabat",
+    "region": "Asia",
+    "dial": "+993",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Tunis": {
+    "country": "Tunisia",
+    "countryCode": "TN",
+    "city": "Tunis",
+    "region": "Africa",
+    "dial": "+216",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Tongatapu": {
+    "country": "Tonga",
+    "countryCode": "TO",
+    "city": "Tongatapu",
+    "region": "Pacific",
+    "dial": "+676",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Istanbul": {
+    "country": "Turkey",
+    "countryCode": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "dial": "+90",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Funafuti": {
+    "country": "Tuvalu",
+    "countryCode": "TV",
+    "city": "Funafuti",
+    "region": "Pacific",
+    "dial": "+688",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Taipei": {
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "region": "Asia",
+    "dial": "+886",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Kiev": {
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "dial": "+380",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Uzhgorod": {
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "city": "Uzhgorod",
+    "region": "Europe",
+    "dial": "+380",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Zaporozhye": {
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "city": "Zaporozhye",
+    "region": "Europe",
+    "dial": "+380",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Wake": {
+    "country": "US minor outlying islands",
+    "countryCode": "US",
+    "city": "Wake",
+    "region": "Pacific",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/New_York": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New_York",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Detroit": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Detroit",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Kentucky/Louisville": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Louisville",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Kentucky/Monticello": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Monticello",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Indianapolis": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Indianapolis",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Vincennes": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Vincennes",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Winamac": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Winamac",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Marengo": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Marengo",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Petersburg": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Petersburg",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Vevay": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Vevay",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Chicago": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chicago",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Tell_City": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Tell_City",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Indiana/Knox": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Knox",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Menominee": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Menominee",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/North_Dakota/Center": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Center",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/North_Dakota/New_Salem": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New_Salem",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/North_Dakota/Beulah": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Beulah",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Denver": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Denver",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Boise": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Boise",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Phoenix": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Phoenix",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Los_Angeles": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Los_Angeles",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Anchorage": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Anchorage",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Juneau": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Juneau",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Sitka": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Sitka",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Metlakatla": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Metlakatla",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Yakutat": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Yakutat",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Nome": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Nome",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Adak": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Adak",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "Pacific/Honolulu": {
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Honolulu",
+    "region": "Pacific",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": true
+  },
+  "America/Montevideo": {
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "city": "Montevideo",
+    "region": "America",
+    "dial": "+598",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Samarkand": {
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "city": "Samarkand",
+    "region": "Asia",
+    "dial": "+998",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Tashkent": {
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "city": "Tashkent",
+    "region": "Asia",
+    "dial": "+998",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Caracas": {
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "city": "Caracas",
+    "region": "America",
+    "dial": "+58",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Ho_Chi_Minh": {
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "city": "Ho_Chi_Minh",
+    "region": "Asia",
+    "dial": "+84",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Efate": {
+    "country": "Vanuatu",
+    "countryCode": "VU",
+    "city": "Efate",
+    "region": "Pacific",
+    "dial": "+678",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Wallis": {
+    "country": "Wallis & Futuna",
+    "countryCode": "WF",
+    "city": "Wallis",
+    "region": "Pacific",
+    "dial": "+681",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Apia": {
+    "country": "Samoa (western)",
+    "countryCode": "WS",
+    "city": "Apia",
+    "region": "Pacific",
+    "dial": "+685",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Johannesburg": {
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "city": "Johannesburg",
+    "region": "Africa",
+    "dial": "+27",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Antigua": {
+    "country": "Antigua & Barbuda",
+    "countryCode": "AG",
+    "city": "Antigua",
+    "region": "America",
+    "dial": "+1268",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Anguilla": {
+    "country": "Anguilla",
+    "countryCode": "AI",
+    "city": "Anguilla",
+    "region": "America",
+    "dial": "+1264",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Luanda": {
+    "country": "Angola",
+    "countryCode": "AO",
+    "city": "Luanda",
+    "region": "Africa",
+    "dial": "+244",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/McMurdo": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "McMurdo",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/DumontDUrville": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "DumontDUrville",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Antarctica/Syowa": {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "city": "Syowa",
+    "region": "Antarctica",
+    "dial": "+672",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Aruba": {
+    "country": "Aruba",
+    "countryCode": "AW",
+    "city": "Aruba",
+    "region": "America",
+    "dial": "+297",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Mariehamn": {
+    "country": "Åland Islands",
+    "countryCode": "AX",
+    "city": "Mariehamn",
+    "region": "Europe",
+    "dial": "+358",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Sarajevo": {
+    "country": "Bosnia & Herzegovina",
+    "countryCode": "BA",
+    "city": "Sarajevo",
+    "region": "Europe",
+    "dial": "+387",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Ouagadougou": {
+    "country": "Burkina Faso",
+    "countryCode": "BF",
+    "city": "Ouagadougou",
+    "region": "Africa",
+    "dial": "+226",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Bahrain": {
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "city": "Bahrain",
+    "region": "Asia",
+    "dial": "+973",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Bujumbura": {
+    "country": "Burundi",
+    "countryCode": "BI",
+    "city": "Bujumbura",
+    "region": "Africa",
+    "dial": "+257",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Porto-Novo": {
+    "country": "Benin",
+    "countryCode": "BJ",
+    "city": "Porto-Novo",
+    "region": "Africa",
+    "dial": "+229",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Barthelemy": {
+    "country": "St Barthelemy",
+    "countryCode": "BL",
+    "city": "St_Barthelemy",
+    "region": "America",
+    "dial": "+590",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Kralendijk": {
+    "country": "Caribbean NL",
+    "countryCode": "NL",
+    "city": "Kralendijk",
+    "region": "America",
+    "dial": "+599",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Nassau": {
+    "country": "Bahamas",
+    "countryCode": "BS",
+    "city": "Nassau",
+    "region": "America",
+    "dial": "+1242",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Gaborone": {
+    "country": "Botswana",
+    "countryCode": "BW",
+    "city": "Gaborone",
+    "region": "Africa",
+    "dial": "+267",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Blanc-Sablon": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Blanc-Sablon",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Atikokan": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Atikokan",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Creston": {
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Creston",
+    "region": "America",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Kinshasa": {
+    "country": "Congo (Dem. Rep.)",
+    "countryCode": "CD",
+    "city": "Kinshasa",
+    "region": "Africa",
+    "dial": "+243",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Lubumbashi": {
+    "country": "Congo (Dem. Rep.)",
+    "countryCode": "CD",
+    "city": "Lubumbashi",
+    "region": "Africa",
+    "dial": "+243",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Bangui": {
+    "country": "Central African Rep.",
+    "countryCode": "CF",
+    "city": "Bangui",
+    "region": "Africa",
+    "dial": "+236",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Brazzaville": {
+    "country": "Congo (Rep.)",
+    "countryCode": "CG",
+    "city": "Brazzaville",
+    "region": "Africa",
+    "dial": "+242",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Douala": {
+    "country": "Cameroon",
+    "countryCode": "CM",
+    "city": "Douala",
+    "region": "Africa",
+    "dial": "+237",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Curacao": {
+    "country": "Curaçao",
+    "countryCode": "CW",
+    "city": "Curacao",
+    "region": "America",
+    "dial": "+599",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Busingen": {
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Busingen",
+    "region": "Europe",
+    "dial": "+49",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Africa/Djibouti": {
+    "country": "Djibouti",
+    "countryCode": "DJ",
+    "city": "Djibouti",
+    "region": "Africa",
+    "dial": "+253",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Dominica": {
+    "country": "Dominica",
+    "countryCode": "DM",
+    "city": "Dominica",
+    "region": "America",
+    "dial": "+1767",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Asmara": {
+    "country": "Eritrea",
+    "countryCode": "ER",
+    "city": "Asmara",
+    "region": "Africa",
+    "dial": "+291",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Addis_Ababa": {
+    "country": "Ethiopia",
+    "countryCode": "ET",
+    "city": "Addis_Ababa",
+    "region": "Africa",
+    "dial": "+251",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Libreville": {
+    "country": "Gabon",
+    "countryCode": "GA",
+    "city": "Libreville",
+    "region": "Africa",
+    "dial": "+241",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Grenada": {
+    "country": "Grenada",
+    "countryCode": "GD",
+    "city": "Grenada",
+    "region": "America",
+    "dial": "+1473",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Guernsey": {
+    "country": "Guernsey",
+    "countryCode": "GG",
+    "city": "Guernsey",
+    "region": "Europe",
+    "dial": "+44",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Accra": {
+    "country": "Ghana",
+    "countryCode": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "dial": "+233",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Banjul": {
+    "country": "Gambia",
+    "countryCode": "GM",
+    "city": "Banjul",
+    "region": "Africa",
+    "dial": "+220",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Conakry": {
+    "country": "Guinea",
+    "countryCode": "GN",
+    "city": "Conakry",
+    "region": "Africa",
+    "dial": "+224",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Guadeloupe": {
+    "country": "Guadeloupe",
+    "countryCode": "GP",
+    "city": "Guadeloupe",
+    "region": "America",
+    "dial": "+590",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Malabo": {
+    "country": "Equatorial Guinea",
+    "countryCode": "GQ",
+    "city": "Malabo",
+    "region": "Africa",
+    "dial": "+240",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Zagreb": {
+    "country": "Croatia",
+    "countryCode": "HR",
+    "city": "Zagreb",
+    "region": "Europe",
+    "dial": "+385",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Europe/Isle_of_Man": {
+    "country": "Isle of Man",
+    "countryCode": "IM",
+    "city": "Isle_of_Man",
+    "region": "Europe",
+    "dial": "+44",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Jersey": {
+    "country": "Jersey",
+    "countryCode": "JE",
+    "city": "Jersey",
+    "region": "Europe",
+    "dial": "+44",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Phnom_Penh": {
+    "country": "Cambodia",
+    "countryCode": "KH",
+    "city": "Phnom_Penh",
+    "region": "Asia",
+    "dial": "+855",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Comoro": {
+    "country": "Comoros",
+    "countryCode": "KM",
+    "city": "Comoro",
+    "region": "Indian",
+    "dial": "+269",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Kitts": {
+    "country": "St Kitts & Nevis",
+    "countryCode": "KN",
+    "city": "St_Kitts",
+    "region": "America",
+    "dial": "+1869",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Kuwait": {
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "city": "Kuwait",
+    "region": "Asia",
+    "dial": "+965",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Cayman": {
+    "country": "Cayman Islands",
+    "countryCode": "KY",
+    "city": "Cayman",
+    "region": "America",
+    "dial": "+ 345",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Vientiane": {
+    "country": "Laos",
+    "countryCode": "LA",
+    "city": "Vientiane",
+    "region": "Asia",
+    "dial": "+856",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Lucia": {
+    "country": "St Lucia",
+    "countryCode": "LC",
+    "city": "St_Lucia",
+    "region": "America",
+    "dial": "+1758",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Vaduz": {
+    "country": "Liechtenstein",
+    "countryCode": "LI",
+    "city": "Vaduz",
+    "region": "Europe",
+    "dial": "+423",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Maseru": {
+    "country": "Lesotho",
+    "countryCode": "LS",
+    "city": "Maseru",
+    "region": "Africa",
+    "dial": "+266",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Podgorica": {
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "city": "Podgorica",
+    "region": "Europe",
+    "dial": "+382",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Marigot": {
+    "country": "St Martin (French)",
+    "countryCode": "MF",
+    "city": "Marigot",
+    "region": "America",
+    "dial": "+590",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Antananarivo": {
+    "country": "Madagascar",
+    "countryCode": "MG",
+    "city": "Antananarivo",
+    "region": "Indian",
+    "dial": "+261",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Skopje": {
+    "country": "North Macedonia",
+    "countryCode": "MK",
+    "city": "Skopje",
+    "region": "Europe",
+    "dial": "+389",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Bamako": {
+    "country": "Mali",
+    "countryCode": "ML",
+    "city": "Bamako",
+    "region": "Africa",
+    "dial": "+223",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Saipan": {
+    "country": "Northern Mariana Islands",
+    "countryCode": "MP",
+    "city": "Saipan",
+    "region": "Pacific",
+    "dial": "+1670",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Nouakchott": {
+    "country": "Mauritania",
+    "countryCode": "MR",
+    "city": "Nouakchott",
+    "region": "Africa",
+    "dial": "+222",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Montserrat": {
+    "country": "Montserrat",
+    "countryCode": "MS",
+    "city": "Montserrat",
+    "region": "America",
+    "dial": "+1664",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Blantyre": {
+    "country": "Malawi",
+    "countryCode": "MW",
+    "city": "Blantyre",
+    "region": "Africa",
+    "dial": "+265",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Niamey": {
+    "country": "Niger",
+    "countryCode": "NE",
+    "city": "Niamey",
+    "region": "Africa",
+    "dial": "+227",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Muscat": {
+    "country": "Oman",
+    "countryCode": "OM",
+    "city": "Muscat",
+    "region": "Asia",
+    "dial": "+968",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Kigali": {
+    "country": "Rwanda",
+    "countryCode": "RW",
+    "city": "Kigali",
+    "region": "Africa",
+    "dial": "+250",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Atlantic/St_Helena": {
+    "country": "St Helena",
+    "countryCode": "SH",
+    "city": "St_Helena",
+    "region": "Atlantic",
+    "dial": "+290",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Ljubljana": {
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "dial": "+386",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Arctic/Longyearbyen": {
+    "country": "Svalbard & Jan Mayen",
+    "countryCode": "SJ",
+    "city": "Longyearbyen",
+    "region": "Arctic",
+    "dial": "+47",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Bratislava": {
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "dial": "+421",
+    "isGDPR": true,
+    "isCCPA": false
+  },
+  "Africa/Freetown": {
+    "country": "Sierra Leone",
+    "countryCode": "SL",
+    "city": "Freetown",
+    "region": "Africa",
+    "dial": "+232",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/San_Marino": {
+    "country": "San Marino",
+    "countryCode": "SM",
+    "city": "San_Marino",
+    "region": "Europe",
+    "dial": "+378",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Dakar": {
+    "country": "Senegal",
+    "countryCode": "SN",
+    "city": "Dakar",
+    "region": "Africa",
+    "dial": "+221",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Mogadishu": {
+    "country": "Somalia",
+    "countryCode": "SO",
+    "city": "Mogadishu",
+    "region": "Africa",
+    "dial": "+252",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Lower_Princes": {
+    "country": "St Maarten (Dutch)",
+    "countryCode": "SX",
+    "city": "Lower_Princes",
+    "region": "America",
+    "dial": "+721",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Mbabane": {
+    "country": "Eswatini (Swaziland)",
+    "countryCode": "SZ",
+    "city": "Mbabane",
+    "region": "Africa",
+    "dial": "+268",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Lome": {
+    "country": "Togo",
+    "countryCode": "TG",
+    "city": "Lome",
+    "region": "Africa",
+    "dial": "+228",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Port_of_Spain": {
+    "country": "Trinidad & Tobago",
+    "countryCode": "TT",
+    "city": "Port_of_Spain",
+    "region": "America",
+    "dial": "+1868",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Dar_es_Salaam": {
+    "country": "Tanzania",
+    "countryCode": "TZ",
+    "city": "Dar_es_Salaam",
+    "region": "Africa",
+    "dial": "+255",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Kampala": {
+    "country": "Uganda",
+    "countryCode": "UG",
+    "city": "Kampala",
+    "region": "Africa",
+    "dial": "+256",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Pacific/Midway": {
+    "country": "US minor outlying islands",
+    "countryCode": "US",
+    "city": "Midway",
+    "region": "Pacific",
+    "dial": "+1",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Europe/Vatican": {
+    "country": "Vatican City",
+    "countryCode": "VA",
+    "city": "Vatican",
+    "region": "Europe",
+    "dial": "+379",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Vincent": {
+    "country": "St Vincent",
+    "countryCode": "VC",
+    "city": "St_Vincent",
+    "region": "America",
+    "dial": "+1784",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/Tortola": {
+    "country": "Virgin Islands (UK)",
+    "countryCode": "VG",
+    "city": "Tortola",
+    "region": "America",
+    "dial": "+1284",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "America/St_Thomas": {
+    "country": "Virgin Islands (US)",
+    "countryCode": "VI",
+    "city": "St_Thomas",
+    "region": "America",
+    "dial": "+1340",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Asia/Aden": {
+    "country": "Yemen",
+    "countryCode": "YE",
+    "city": "Aden",
+    "region": "Asia",
+    "dial": "+967",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Indian/Mayotte": {
+    "country": "Mayotte",
+    "countryCode": "YT",
+    "city": "Mayotte",
+    "region": "Indian",
+    "dial": "+262",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Lusaka": {
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "city": "Lusaka",
+    "region": "Africa",
+    "dial": "+260",
+    "isGDPR": false,
+    "isCCPA": false
+  },
+  "Africa/Harare": {
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "city": "Harare",
+    "region": "Africa",
+    "dial": "+263",
+    "isGDPR": false,
+    "isCCPA": false
+  }
+}
