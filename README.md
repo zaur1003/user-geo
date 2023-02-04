@@ -25,29 +25,54 @@ const UserGeo = require("@zaur_mahmudov/user-geo");
 ```javascript
 import * as UserGeo from "@zaur_mahmudov/user-geo";
 
-# getFullLocation - returns full object with user geo location
-UserGeo.getFullLocation()
+// getFullLocation - returns full object with user geo location
+UserGeo.getFullLocation();
 
-# getCountry - returns user country name
-UserGeo.getCountry()
+// getCountry - returns user country name
+UserGeo.getCountry();
 
-# getCountryCode - returns user country code
-UserGeo.getCountryCode()
+// getCountryCode - returns user country code
+UserGeo.getCountryCode();
 
-# getCity - returns user city name
-UserGeo.getCity()
+// getCity - returns user city name
+UserGeo.getCity();
 
-# getRegion - returns user region
-UserGeo.getRegion()
+// getRegion - returns user region
+UserGeo.getRegion();
 
-# getDial - returns dial code of user's country
-UserGeo.getDial()
+// getDial - returns dial code of user's country
+UserGeo.getDial();
 
-# getGDPRApplies - returns whether or not GDPR is applied in user's country
-UserGeo.getGDPRApplies()
+// getGDPRApplies - returns whether or not GDPR is applied in user's country
+UserGeo.getGDPRApplies();
 
-# getCCPAApplies - returns whether or not CCPA is applied in user's country
-UserGeo.getCCPAApplies()
+// getCCPAApplies - returns whether or not CCPA is applied in user's country
+UserGeo.getCCPAApplies();
+```
+
+## Examples
+
+```javascript
+/**
+ * getFullLocation method returns user full geo data object. E.g.:
+*/
+{
+  country: 'Hungary',
+  countryCode: 'HU',
+  city: 'Budapest',
+  region: 'Europe',
+  dial: '+36',
+  isGDPR: true,
+  isCCPA: false
+}
+
+/**
+ * All other methods returns string. E.g.:
+*/
+
+UserGeo.getCountry(); // returns - "Budapest"
+UserGeo.getCountryCode(); // returns - "HU"
+
 ```
 
 ## Contributing
