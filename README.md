@@ -5,7 +5,7 @@ User Geo is javascript library that can define user country,city, region whether
 ## Installation
 
 ```bash
-npm install @zaur_mahmudov/user-geo
+npm install @zma-lab/user-geolocation
 ```
 
 ## Import
@@ -13,17 +13,17 @@ npm install @zaur_mahmudov/user-geo
 User Geo supports both ECMAscript and CommonJS so it can be imported and required
 
 ```javascript
-import * as UserGeo from "@zaur_mahmudov/user-geo";
+import * as UserGeo from "@zma-lab/user-geolocation";
 
 or;
 
-const UserGeo = require("@zaur_mahmudov/user-geo");
+const UserGeo = require("@zma-lab/user-geolocation");
 ```
 
 ## Methods
 
 ```javascript
-import * as UserGeo from "@zaur_mahmudov/user-geo";
+import * as UserGeo from "@zma-lab/user-geolocation";
 
 // getFullLocation - returns full object with user geo location
 UserGeo.getFullLocation();
