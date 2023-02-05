@@ -24,8 +24,6 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getCCPAApplies = exports.getGDPRApplies = exports.getDial = exports.getRegion = exports.getCity = exports.getCountryCode = exports.getCountry = exports.getFullLocation = void 0;
-var path = require("path-browserify");
-// const info = require(path.join(__dirname, "data/info.json"));
 var info = __importStar(require("./data/info.json"));
 var getFullLocation = function () {
     var userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;

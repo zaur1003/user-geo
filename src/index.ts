@@ -1,8 +1,4 @@
 import { LocationDTO } from "./types/types";
-
-const path = require("path-browserify");
-
-// const info = require(path.join(__dirname, "data/info.json"));
 import * as info from "./data/info.json";
 
 export const getFullLocation = (): LocationDTO => {
